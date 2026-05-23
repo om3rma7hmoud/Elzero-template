@@ -189,7 +189,7 @@ You can view the live demo by opening `index.html` in your web browser. The webs
 
 ## 📄 License
 
-This project is created for **learning and portfolio purposes**. Feel free to use it as a reference for your own projects!
+This project is created for **learning and portfolio purposes**.
 
 ---
 
